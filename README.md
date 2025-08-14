@@ -24,9 +24,6 @@ HTML / CSS(SCSS) / JavaScript を使用して作成しています。
 ├── index.html # トップページ
 └── .gitignore # Gitで追跡しないファイルを指定
 
-yaml
-コピーする
-編集する
 
 ---
 
@@ -56,3 +53,6 @@ yaml
 git add .
 git commit -m "更新内容"
 git push
+
+
+© 2025 自然の恵み農園
