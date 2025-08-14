@@ -16,7 +16,7 @@ HTML / CSS(SCSS) / JavaScript を使用して作成しています。
 
 ## 📂 ディレクトリ構成
 
-```
+```plaintext
 .
 ├── css/         # コンパイル済みCSS
 ├── sass/        # SCSSファイル
