@@ -16,15 +16,17 @@ HTML / CSS(SCSS) / JavaScript を使用して作成しています。
 
 ## 📂 ディレクトリ構成
 
-```plaintext
 .
-├── css/         # コンパイル済みCSS
-├── sass/        # SCSSファイル
-├── js/          # JavaScriptファイル
-├── images/      # 画像ファイル（ロゴ・写真など）
-├── index.html   # トップページ
-└── .gitignore   # Gitで追跡しないファイルを指定
-```
+├── css/ # コンパイル済みCSS
+├── sass/ # SCSSファイル
+├── js/ # JavaScriptファイル
+├── images/ # 画像ファイル（ロゴ・写真など）
+├── index.html # トップページ
+└── .gitignore # Gitで追跡しないファイルを指定
+
+yaml
+コピーする
+編集する
 
 ---
 
@@ -54,6 +56,4 @@ HTML / CSS(SCSS) / JavaScript を使用して作成しています。
 git add .
 git commit -m "更新内容"
 git push
-
-
 © 2025 自然の恵み農園

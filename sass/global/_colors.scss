@@ -2,3 +2,32 @@
 // 色
 $white: #fff;
 $black: #000;
+$gray-text: #555555;
+$gray-background: #f9f9f9;
+$gray-drop-shadow: #00000029;
+$green1: #93c572;
+$green2: #87b16c;
+$orange: #f7b560;
+
+// 共通パーツ
+.inner {
+  width: 100%;
+  max-width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 25px;
+  padding-left: 25px;
+  @include mq("md") {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+
+.heading {
+  position: relative;
+  color: $gray-text;
+  font-size: 40px;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+  line-height: 1.7;
+}
